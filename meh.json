@@ -3,6 +3,15 @@
   "description": "",
   "artist": "",
   "author": "",
-  "cover": "gh repo clone stirante/facaccimo",
-  "chapters": {}
+  "cover": "",
+  "chapters": {
+    "20": {
+      "title": "20",
+      "volume": "",
+      "last_updated": "1657437678",
+      "groups": {
+        "": "https://github.com/perseiids/manga-archive.git"
+      }
+    }
+  }
 }
